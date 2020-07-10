@@ -1,0 +1,12 @@
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color:skyblue;
+    border:1px solid white;
+    background:skyblue;
+    color:white;
+    border-radius:10px;
+}

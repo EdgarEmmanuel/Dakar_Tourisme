@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+
+/* navbar */
+
+#body{
+    width:100%;
+    background:#3ABEE6;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+#corps{
+    background:white;
+    border-radius:7px;
+    overflow: hidden;
+}
+
+.navbar .collapse .btn{
+    color:white;
+    background:#3ABEE6;
+    border:1px solid #3ABEE6;
+}
+
+/* for the unique image on the page */
+
+#body #corps .row{
+    overflow: hidden;
+}
+
+#body #corps .row img{
+    width:400rem;
+    height: 40rem;
+    z-index:3;
+}
+
+
+#body #corps .row .partText{
+    position: relative;
+    top:-30rem;
+    bottom:0;
+    z-index:8;
+    text-align: center;
+}
+
+#body #corps .row .partText input{
+    width:420px;
+    border:1px solid white;
+    height:3.5rem;
+}
+
+#body #corps .row .partText input[type="text"]{
+    border-top-left-radius: 7px;
+    border-bottom-left-radius:7px;
+    
+}
+
+#body #corps .row .partText button{
+    height:3.5rem;
+    width:220px;
+    border:1px solid #EF9159;
+    background:#EF9159;
+    color:white;
+}
+
+#body #corps .row .partText h1{
+    color:white;
+    font-family: 'Bangers', cursive;
+}
+
+/* sitesToVisit */
+
+#body #corps .row .partText .sitesToVisit{
+    align-items:center;
+    display:flex;
+    flex-wrap:wrap;
+    background:white;
+    border-radius:10px;
+    margin-top: 150px;
+}
+
+#body #corps .row .partText .sitesToVisit .-col-sites{
+    flex-basis: 22%;
+    font-family: 'Bangers', cursive;
+}
