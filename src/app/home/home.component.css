@@ -2,20 +2,27 @@
 
 
 /* navbar */
-
 #body{
     width:100%;
+    height: 100%;
     background:#3ABEE6;
     padding-top: 20px;
     padding-left: 100px;
     padding-right: 100px;
+    padding-bottom: 20px;
 }
 
 
-#corps{
-    background:white;
-    border-radius:7px;
-    overflow: hidden;
+#body #corps{
+    height: auto;
+   
+    /* overflow: hidden; */
+}
+
+#body #corps .navbar{
+    background-color: white;
+    border-top-left-radius:7px;
+    border-top-right-radius:7px;
 }
 
 .navbar .collapse .btn{
@@ -26,38 +33,44 @@
 
 /* for the unique image on the page */
 
-#body #corps .row{
+#body #corps .section-1{
     overflow: hidden;
 }
 
-#body #corps .row img{
-    width:400rem;
-    height: 40rem;
-    z-index:3;
+#body #corps .section-1 .row {
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
+#body #corps .section-1 .row .col-md-12 img{
+    width:100rem;
+    height:40rem;
+}
 
-#body #corps .row .partText{
+#body #corps .section-1 .row .col-md-12 .partText{
+    text-align: center;
     position: relative;
     top:-30rem;
-    bottom:0;
-    z-index:8;
-    text-align: center;
+    
 }
 
-#body #corps .row .partText input{
+
+#body #corps .section-1 .row .col-md-12 .partText input{
     width:420px;
     border:1px solid white;
     height:3.5rem;
 }
 
-#body #corps .row .partText input[type="text"]{
+
+#body #corps .section-1 .row .col-md-12 .partText input[type="text"]{
     border-top-left-radius: 7px;
     border-bottom-left-radius:7px;
     
 }
 
-#body #corps .row .partText button{
+
+
+#body #corps .section-1 .row .col-md-12 .partText button{
     height:3.5rem;
     width:220px;
     border:1px solid #EF9159;
@@ -65,14 +78,16 @@
     color:white;
 }
 
-#body #corps .row .partText h1{
+
+#body #corps .section-1 .row .col-md-12 .partText h1{
     color:white;
     font-family: 'Bangers', cursive;
+    font-size:50px;
 }
 
 /* sitesToVisit */
 
-#body #corps .row .partText .sitesToVisit{
+#body #corps .section-1 .row .col-md-12 .partText .sitesToVisit{
     align-items:center;
     display:flex;
     flex-wrap:wrap;
@@ -81,7 +96,7 @@
     margin-top: 150px;
 }
 
-#body #corps .row .partText .sitesToVisit .-col-sites{
+#body #corps .section-1 .row .col-md-12 .partText .sitesToVisit .-col-sites{
     flex-basis: 22%;
     font-family: 'Bangers', cursive;
 }
