@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+
+
+nav{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+nav .collapse button{
+    background: #3f98db;
+    border:1px solid #3f98db;
+    color:white;
+    border-radius:10px;
+    text-transform: uppercase;
+}
+
+
+nav .collapse li a:hover{
+    background: #3f98db;
+    border-radius:10px;
+}
