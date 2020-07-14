@@ -1,0 +1,61 @@
+
+/* start section-1 */
+.section-1 .row{
+    margin: auto;
+    overflow: hidden;
+}
+
+.section-1 .row .col-md-12 img{
+    width:82rem;
+    height:35rem;
+    border-radius:10px;
+    
+}
+
+
+.section-1 .row .col-md-12 .textSec1{
+    position: relative;
+    top:-24rem;
+    margin-left:13rem;
+}
+
+.section-1 .row .col-md-12 .textSec1 h1{
+    color:white;
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section-1 .row .col-md-12 .textSec1 h3{
+    color:white;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section-1 .row .col-md-12 .textSec1 input[type="text"]::placeholder{
+    color:black;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.section-1 .row .col-md-12 .textSec1 input[type="text"]{
+    width:340px;
+    height:2rem;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+    border:1px solid grey;
+}
+
+.section-1 .row .col-md-12 .textSec1 input[type="date"]{
+    width:300px;
+    height:2rem;
+    border:1px solid grey;
+}
+
+.section-1 .row .col-md-12 .textSec1 button{
+    border:1px solid #ef9159;
+    color:white;
+    text-transform: uppercase;
+    background:#ef9159;
+    width:200px;
+    height:2rem;
+}
