@@ -1,0 +1,23 @@
+[2020-07-16 08:36:16.444] [sharedprocess] [info] main {"machineId":"12844d7fce3c92bfa5ccdbf513b2a523b8fcd140053c42cf9c9d6a09ae28d296","windowId":2}
+[2020-07-16 08:36:16.518] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/immanuwel/ANGULAR/routing/~vscode-root/User/snippets'
+[2020-07-16 08:36:17.507] [sharedprocess] [info] Deleted from disk dbaeumer.vscode-eslint /home/immanuwel/.vscode/extensions/dbaeumer.vscode-eslint-2.1.7
+[2020-07-16 08:36:17.512] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/immanuwel/.vscode/extensions/ms-vscode.cpptools-0.28.3
+[2020-07-16 08:36:20.184] [sharedprocess] [info] Installing extension: aaron-bond.better-comments
+[2020-07-16 08:36:20.184] [sharedprocess] [info] Installing extension: mongodb.mongodb-vscode
+[2020-07-16 08:36:20.185] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2020-07-16 08:36:22.000] [sharedprocess] [info] Downloaded extension: aaron-bond.better-comments /home/immanuwel/ANGULAR/routing/~vscode-root/CachedExtensionVSIXs/aaron-bond.better-comments-2.1.0
+[2020-07-16 08:36:22.028] [sharedprocess] [info] Extracted extension to /home/immanuwel/.vscode/extensions/.aaron-bond.better-comments-2.1.0: aaron-bond.better-comments
+[2020-07-16 08:36:22.028] [sharedprocess] [info] Renamed to /home/immanuwel/.vscode/extensions/aaron-bond.better-comments-2.1.0
+[2020-07-16 08:36:22.028] [sharedprocess] [info] Installation completed. aaron-bond.better-comments
+[2020-07-16 08:36:22.053] [sharedprocess] [info] Extensions installed successfully: aaron-bond.better-comments
+[2020-07-16 08:36:23.422] [sharedprocess] [info] Downloaded extension: mongodb.mongodb-vscode /home/immanuwel/ANGULAR/routing/~vscode-root/CachedExtensionVSIXs/mongodb.mongodb-vscode-0.1.0
+[2020-07-16 08:36:23.522] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /home/immanuwel/ANGULAR/routing/~vscode-root/CachedExtensionVSIXs/msjsdiag.debugger-for-chrome-4.12.9
+[2020-07-16 08:36:23.938] [sharedprocess] [info] Extracted extension to /home/immanuwel/.vscode/extensions/.mongodb.mongodb-vscode-0.1.0: mongodb.mongodb-vscode
+[2020-07-16 08:36:23.938] [sharedprocess] [info] Renamed to /home/immanuwel/.vscode/extensions/mongodb.mongodb-vscode-0.1.0
+[2020-07-16 08:36:23.939] [sharedprocess] [info] Installation completed. mongodb.mongodb-vscode
+[2020-07-16 08:36:23.984] [sharedprocess] [info] Extensions installed successfully: mongodb.mongodb-vscode
+[2020-07-16 08:36:24.339] [sharedprocess] [info] Extracted extension to /home/immanuwel/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.12.9: msjsdiag.debugger-for-chrome
+[2020-07-16 08:36:24.339] [sharedprocess] [info] Renamed to /home/immanuwel/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.9
+[2020-07-16 08:36:24.340] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2020-07-16 08:36:24.367] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2020-07-16 08:36:56.476] [sharedprocess] [info] Starting to clean up unused language packs.
