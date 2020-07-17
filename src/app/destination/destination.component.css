@@ -6,6 +6,7 @@
 .section-2 .row .col-md-12 img{
     width:80rem;
     margin-left: 12px;
+    border-radius:10px;
 }
 
 .section-2 .row .col-md-12 .description{
@@ -21,4 +22,73 @@
     margin: 0px 16px 0px;
     color:black;
     font-family: 'Baloo Da 2', cursive;
+}
+
+/* end for the section-2 */
+
+
+/* start for the section-3 */
+.section-3{
+    margin-bottom: 100px;
+}
+
+.section-3 .row{
+    overflow: hidden;
+    margin: auto;
+}
+
+
+.section-3 .row .col-md-4 img{
+    width:32rem;
+    height:40rem;
+    margin-left: 12px;
+    border-radius:10px;
+}
+
+
+.section-3 .row .col-md-8 img{
+    width:45rem;
+    height:40rem;
+    margin-left: 12px;
+    border-radius:10px;
+    margin-left: 8rem;
+}
+
+
+.section-3 .row .col-md-8 .description{
+    width:400px;
+    position: relative;
+    top:-10rem;
+    align-items:center;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 220px;
+    background:rgba(255, 255, 255,0.4);
+    border-radius:10px;
+    
+}
+
+.section-3 .row .col-md-4 .description h1,h2,h3{
+    margin: 0px 16px 0px;
+    color:black;
+    font-family: 'Baloo Da 2', cursive;
+}
+
+.section-3 .row .col-md-8 .description h1,h2,h3{
+    margin: 0px 16px 0px;
+    color:black;
+    font-family: 'Baloo Da 2', cursive;
+}
+
+.section-3 .row .col-md-4 .description{
+    width:400px;
+    position: relative;
+    top:-10rem;
+    align-items:center;
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 120px;
+    background:rgba(255, 255, 255,0.4);
+    border-radius:10px;
+    
 }

@@ -2,6 +2,10 @@
     "telemetry.machineId": "12844d7fce3c92bfa5ccdbf513b2a523b8fcd140053c42cf9c9d6a09ae28d296",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/immanuwel/Documents/RUBY/simpleBlog",
+            "file:///home/immanuwel/Downloads/reveal.js-master",
+            "file:///home/immanuwel/Documents/Node_Work",
+            "file:///opt/lampp/htdocs/bookList",
             "file:///home/immanuwel/ANGULAR/routing",
             "file:///home/immanuwel/ANGULAR/routing/src/assets"
         ],
@@ -51,7 +55,51 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/immanuwel/ANGULAR/routing",
+                                        "fsPath": "/home/immanuwel/Downloads/reveal.js-master",
+                                        "external": "file:///home/immanuwel/Downloads/reveal.js-master",
+                                        "path": "/home/immanuwel/Downloads/reveal.js-master",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/reveal.js-master"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/immanuwel/Documents/RUBY/simpleBlog",
+                                        "path": "/home/immanuwel/Documents/RUBY/simpleBlog",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/RUBY/simpleBlog"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/immanuwel/Documents/Node_Work",
+                                        "path": "/home/immanuwel/Documents/Node_Work",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/Node_Work"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///opt/lampp/htdocs/bookList",
+                                        "path": "/opt/lampp/htdocs/bookList",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/opt/lampp/htdocs/bookList"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/immanuwel/ANGULAR/routing",
                                         "path": "/home/immanuwel/ANGULAR/routing",
                                         "scheme": "file"
@@ -384,8 +432,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -1455,8 +1502,8 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/immanuwel/ANGULAR/routing",
-            "backupPath": "/home/immanuwel/ANGULAR/routing/~vscode-root/Backups/086168b065845277b0ab052ae2e7f067",
+            "folder": "file:///home/immanuwel/Downloads/reveal.js-master",
+            "backupPath": "/home/immanuwel/ANGULAR/routing/~vscode-root/Backups/85afff3c3722a3656eca4223fe5e05e9",
             "uiState": {
                 "mode": 0,
                 "x": 171,
@@ -1467,5 +1514,5 @@
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/immanuwel/ANGULAR"
+    "pickerWorkingDir": "/home/immanuwel/Documents/RUBY"
 }

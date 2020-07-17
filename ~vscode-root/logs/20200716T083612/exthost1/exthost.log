@@ -176,3 +176,592 @@
 [2020-07-16 08:37:02.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tht13.html-preview-vscode-0.2.5/out/extension.js
 [2020-07-16 08:38:50.058] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
 [2020-07-16 08:38:50.059] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/css-language-features/client/dist/node/cssClientMain
+[2020-07-16 09:07:58.004] [exthost] [info] extension host started
+[2020-07-16 09:07:58.047] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 09:07:58.047] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-07-16 09:07:58.049] [exthost] [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation {"startup":false,"extensionId":{"value":"pucelle.vscode-css-navigation","_lower":"pucelle.vscode-css-navigation"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 09:07:58.049] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pucelle.vscode-css-navigation-1.9.0/client/out/extension
+[2020-07-16 09:07:58.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-16 09:07:58.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-16 09:07:58.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-16 09:07:58.085] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-16 09:07:58.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 09:07:58.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-16 09:07:58.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-16 09:07:58.108] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-16 09:07:58.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-16 09:07:58.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-16 09:07:58.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-16 09:07:58.115] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-16 09:07:58.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-16 09:07:58.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-16 09:07:58.122] [exthost] [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete {"startup":true,"extensionId":{"value":"Atishay-Jain.All-Autocomplete","_lower":"atishay-jain.all-autocomplete"},"activationEvent":"*"}
+[2020-07-16 09:07:58.123] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension
+[2020-07-16 09:07:58.125] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2020-07-16 09:07:58.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/chenxsan.vscode-standardjs-1.3.0/client/out/extension
+[2020-07-16 09:07:58.165] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-07-16 09:07:58.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/christian-kohler.path-intellisense-2.2.1/out/extension.js
+[2020-07-16 09:07:58.181] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-07-16 09:07:58.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-07-16 09:07:58.192] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-07-16 09:07:58.193] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-07-16 09:07:58.197] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-07-16 09:07:58.197] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/formulahendry.auto-close-tag-0.5.8/out/src/extension
+[2020-07-16 09:07:58.198] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2020-07-16 09:07:58.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hbenl.vscode-test-explorer-2.19.1/out/main.js
+[2020-07-16 09:07:58.210] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-07-16 09:07:58.210] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ionutvmi.path-autocomplete-1.14.0/out/src/extension
+[2020-07-16 09:07:58.217] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-16 09:07:58.217] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-16 09:07:58.222] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-07-16 09:07:58.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-07-16 09:07:58.524] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-07-16 09:07:58.524] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-07-16 09:07:58.560] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2020-07-16 09:07:58.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tabnine.tabnine-vscode-2.8.10/out/extension
+[2020-07-16 09:07:58.571] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-07-16 09:07:58.571] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-07-16 09:07:59.334] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 09:07:59.334] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-16 09:07:59.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 09:07:59.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-16 09:07:59.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 09:07:59.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-07-16 09:07:59.444] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"extensionId":{"value":"felixfbecker.php-intellisense","_lower":"felixfbecker.php-intellisense"},"activationEvent":"workspaceContains:**/*.php"}
+[2020-07-16 09:07:59.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/felixfbecker.php-intellisense-2.3.14/out/extension
+[2020-07-16 09:07:59.637] [exthost] [info] ExtensionService#_doActivateExtension DEVSENSE.phptools-vscode {"startup":true,"extensionId":{"value":"DEVSENSE.phptools-vscode","_lower":"devsense.phptools-vscode"},"activationEvent":"workspaceContains:**/*.php"}
+[2020-07-16 09:07:59.637] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/devsense.phptools-vscode-1.0.4908/out/src/extension
+[2020-07-16 09:08:03.341] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 09:08:03.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-16 09:08:03.355] [exthost] [info] eager extensions activated
+[2020-07-16 10:22:06.358] [exthost] [info] extension host started
+[2020-07-16 10:22:06.388] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 10:22:06.388] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-07-16 10:22:06.391] [exthost] [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation {"startup":false,"extensionId":{"value":"pucelle.vscode-css-navigation","_lower":"pucelle.vscode-css-navigation"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 10:22:06.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pucelle.vscode-css-navigation-1.9.0/client/out/extension
+[2020-07-16 10:22:06.419] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-16 10:22:06.419] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-16 10:22:06.420] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-16 10:22:06.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-16 10:22:06.429] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 10:22:06.429] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-16 10:22:06.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-16 10:22:06.445] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-16 10:22:06.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-16 10:22:06.450] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-16 10:22:06.451] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-16 10:22:06.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-16 10:22:06.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-16 10:22:06.457] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-16 10:22:06.458] [exthost] [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete {"startup":true,"extensionId":{"value":"Atishay-Jain.All-Autocomplete","_lower":"atishay-jain.all-autocomplete"},"activationEvent":"*"}
+[2020-07-16 10:22:06.458] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension
+[2020-07-16 10:22:06.461] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2020-07-16 10:22:06.461] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/chenxsan.vscode-standardjs-1.3.0/client/out/extension
+[2020-07-16 10:22:06.492] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-07-16 10:22:06.492] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/christian-kohler.path-intellisense-2.2.1/out/extension.js
+[2020-07-16 10:22:06.507] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-07-16 10:22:06.507] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-07-16 10:22:06.517] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-07-16 10:22:06.517] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-07-16 10:22:06.521] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-07-16 10:22:06.521] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/formulahendry.auto-close-tag-0.5.8/out/src/extension
+[2020-07-16 10:22:06.522] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2020-07-16 10:22:06.522] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hbenl.vscode-test-explorer-2.19.1/out/main.js
+[2020-07-16 10:22:06.534] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-07-16 10:22:06.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ionutvmi.path-autocomplete-1.14.0/out/src/extension
+[2020-07-16 10:22:06.540] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-16 10:22:06.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-16 10:22:06.545] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-07-16 10:22:06.545] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-07-16 10:22:06.841] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-07-16 10:22:06.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-07-16 10:22:06.874] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2020-07-16 10:22:06.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tabnine.tabnine-vscode-2.8.10/out/extension
+[2020-07-16 10:22:06.884] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-07-16 10:22:06.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-07-16 10:22:07.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:22:07.779] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-16 10:22:07.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:22:07.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-16 10:22:07.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:22:07.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-07-16 10:22:07.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 10:22:07.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-16 10:22:07.986] [exthost] [info] eager extensions activated
+[2020-07-16 10:22:09.328] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.npm-intellisense","_lower":"christian-kohler.npm-intellisense"},"activationEvent":"onLanguage:javascript"}
+[2020-07-16 10:22:09.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0/out/src/extension
+[2020-07-16 10:22:09.411] [exthost] [info] ExtensionService#_doActivateExtension clinyong.vscode-css-modules {"startup":false,"extensionId":{"value":"clinyong.vscode-css-modules","_lower":"clinyong.vscode-css-modules"},"activationEvent":"onLanguage:javascript"}
+[2020-07-16 10:22:09.412] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/clinyong.vscode-css-modules-0.2.3/out/src/extension
+[2020-07-16 10:22:09.482] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:javascript"}
+[2020-07-16 10:22:09.482] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-07-16 10:22:09.560] [exthost] [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel {"startup":false,"extensionId":{"value":"mgmcdermott.vscode-language-babel","_lower":"mgmcdermott.vscode-language-babel"},"activationEvent":"onLanguage:javascript"}
+[2020-07-16 10:22:09.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/mgmcdermott.vscode-language-babel-0.0.29/dist/extension
+[2020-07-16 10:22:09.562] [exthost] [info] ExtensionService#_doActivateExtension paulmolluzzo.convert-css-in-js {"startup":false,"extensionId":{"value":"paulmolluzzo.convert-css-in-js","_lower":"paulmolluzzo.convert-css-in-js"},"activationEvent":"onLanguage:javascript"}
+[2020-07-16 10:22:09.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/paulmolluzzo.convert-css-in-js-1.1.3/dist/extension.js
+[2020-07-16 10:22:09.568] [exthost] [info] ExtensionService#_doActivateExtension tiansin.php-class-helper {"startup":false,"extensionId":{"value":"tiansin.php-class-helper","_lower":"tiansin.php-class-helper"},"activationEvent":"onLanguage:javascript"}
+[2020-07-16 10:22:09.568] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tiansin.php-class-helper-0.2.1/out/extension
+[2020-07-16 10:22:09.597] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"extensionId":{"value":"VisualStudioExptTeam.vscodeintellicode","_lower":"visualstudioexptteam.vscodeintellicode"},"activationEvent":"onLanguage:javascript"}
+[2020-07-16 10:22:09.597] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.9/dist/intellicode
+[2020-07-16 10:24:50.581] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 10:24:50.587] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 10:25:21.718] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 10:25:21.719] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 10:25:22.660] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 10:25:22.663] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 10:26:00.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-07-16 10:26:00.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-07-16 10:26:00.286] [exthost] [info] ExtensionService#_doActivateExtension steoates.autoimport {"startup":false,"extensionId":{"value":"steoates.autoimport","_lower":"steoates.autoimport"},"activationEvent":"onLanguage:typescript"}
+[2020-07-16 10:26:00.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/steoates.autoimport-1.5.3/out/src/extension
+[2020-07-16 10:26:46.566] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-07-16 10:26:46.572] [exthost] [error] Error: <semantic> TypeScript Server Error (4.0.0-dev.20200712)
+Cannot read property 'kind' of undefined
+TypeError: Cannot read property 'kind' of undefined
+    at Object.isImportClause (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:25764:21)
+    at Object.deleteDeclaration (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130135:32)
+    at _loop_9 (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129648:47)
+    at ChangeTracker.finishDeleteDeclarations (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129655:21)
+    at ChangeTracker.getChanges (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129675:22)
+    at Function.ChangeTracker.with (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129127:32)
+    at Object.getCodeActions (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:134720:69)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130298:77
+    at Object.flatMap (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130298:23)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:143221:35
+    at Object.flatMap (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:508:25)
+    at Proxy.getCodeFixesAtPosition (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:143219:23)
+    at IOSession.Session.getCodeFixes (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153654:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:152375:61)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153905:88
+    at IOSession.Session.executeWithRequestId (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153896:28)
+    at IOSession.Session.executeCommand (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153905:33)
+    at IOSession.Session.onMessage (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153929:35)
+    at Interface.<anonymous> (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:156144:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:55099)
+    at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:227715)
+    at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226635)
+    at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226111
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at l.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235431)
+    at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235079)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 10:29:52.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-07-16 10:29:52.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2020-07-16 10:29:52.613] [exthost] [info] ExtensionService#_doActivateExtension mohd-akram.vscode-html-format {"startup":false,"extensionId":{"value":"mohd-akram.vscode-html-format","_lower":"mohd-akram.vscode-html-format"},"activationEvent":"onLanguage:html"}
+[2020-07-16 10:29:52.614] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/mohd-akram.vscode-html-format-0.0.4/out/extension
+[2020-07-16 10:29:52.616] [exthost] [info] ExtensionService#_doActivateExtension tht13.html-preview-vscode {"startup":false,"extensionId":{"value":"tht13.html-preview-vscode","_lower":"tht13.html-preview-vscode"},"activationEvent":"onLanguage:html"}
+[2020-07-16 10:29:52.616] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tht13.html-preview-vscode-0.2.5/out/extension.js
+[2020-07-16 10:30:02.275] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 10:30:02.277] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 10:34:37.571] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 10:34:37.575] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 10:35:14.242] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 10:35:14.243] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 11:18:56.210] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-07-16 11:18:56.211] [exthost] [error] Error: <semantic> TypeScript Server Error (4.0.0-dev.20200712)
+Cannot read property 'kind' of undefined
+TypeError: Cannot read property 'kind' of undefined
+    at Object.isImportClause (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:25764:21)
+    at Object.deleteDeclaration (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130135:32)
+    at _loop_9 (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129648:47)
+    at ChangeTracker.finishDeleteDeclarations (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129655:21)
+    at ChangeTracker.getChanges (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129675:22)
+    at Function.ChangeTracker.with (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129127:32)
+    at Object.getCodeActions (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:134720:69)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130298:77
+    at Object.flatMap (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130298:23)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:143221:35
+    at Object.flatMap (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:508:25)
+    at Proxy.getCodeFixesAtPosition (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:143219:23)
+    at IOSession.Session.getCodeFixes (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153654:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:152375:61)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153905:88
+    at IOSession.Session.executeWithRequestId (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153896:28)
+    at IOSession.Session.executeCommand (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153905:33)
+    at IOSession.Session.onMessage (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153929:35)
+    at Interface.<anonymous> (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:156144:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:55099)
+    at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:227715)
+    at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226635)
+    at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226111
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at l.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235431)
+    at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235079)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 11:20:37.052] [exthost] [error] [paulmolluzzo.convert-css-in-js] provider FAILED
+[2020-07-16 11:20:37.057] [exthost] [error] TypeError: Cannot convert undefined or null to object
+    at Function.from (<anonymous>)
+    at Object.getPropertyValueCompletions (/home/immanuwel/.vscode/extensions/paulmolluzzo.convert-css-in-js-1.1.3/dist/autocomplete.js:77:36)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/paulmolluzzo.convert-css-in-js-1.1.3/dist/extension.js:60:39)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 11:21:05.647] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 11:21:05.648] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 11:21:23.939] [exthost] [error] [Atishay-Jain.All-Autocomplete] provider FAILED
+[2020-07-16 11:21:23.941] [exthost] [error] TypeError: Cannot read property 'push' of undefined
+    at /home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11316
+    at Array.forEach (<anonymous>)
+    at Object.provideCompletionItems (/home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension.js:1:11253)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:709
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:761
+    at new Promise (<anonymous>)
+    at Object.t.asPromise (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:51:733)
+    at U.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:678:680)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:455
+    at K._withAdapter (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:686:499)
+    at K.$provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:695:433)
+    at m._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:683)
+    at m._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:801:375)
+    at m._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:799:953)
+    at m._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:798:832)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:797:34
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:975:744
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:235:849)
+    at t.PersistentProtocol._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:240:276)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:237:357
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:233:393)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:232:753
+    at Socket.t (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:241:826)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-07-16 12:09:21.871] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-07-16 12:09:21.872] [exthost] [error] Error: <semantic> TypeScript Server Error (4.0.0-dev.20200712)
+Cannot read property 'kind' of undefined
+TypeError: Cannot read property 'kind' of undefined
+    at Object.isImportClause (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:25764:21)
+    at Object.deleteDeclaration (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130135:32)
+    at _loop_9 (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129648:47)
+    at ChangeTracker.finishDeleteDeclarations (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129655:21)
+    at ChangeTracker.getChanges (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129675:22)
+    at Function.ChangeTracker.with (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:129127:32)
+    at Object.getCodeActions (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:134720:69)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130298:77
+    at Object.flatMap (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:508:25)
+    at Object.getFixes (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:130298:23)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:143221:35
+    at Object.flatMap (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:508:25)
+    at Proxy.getCodeFixesAtPosition (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:143219:23)
+    at IOSession.Session.getCodeFixes (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153654:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:152375:61)
+    at /home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153905:88
+    at IOSession.Session.executeWithRequestId (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153896:28)
+    at IOSession.Session.executeCommand (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153905:33)
+    at IOSession.Session.onMessage (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:153929:35)
+    at Interface.<anonymous> (/home/immanuwel/.vscode/extensions/ms-vscode.vscode-typescript-next-4.0.20200712/node_modules/typescript/lib/tsserver.js:156144:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+    at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:55099)
+    at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:227715)
+    at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226635)
+    at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226111
+    at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+    at l.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235431)
+    at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235079)
+    at Socket.emit (events.js:203:13)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)

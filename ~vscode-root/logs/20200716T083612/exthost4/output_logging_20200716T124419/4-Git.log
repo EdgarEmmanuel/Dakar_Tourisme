@@ -1,0 +1,40 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/immanuwel/Documents/RUBY/simpleBlog
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/views/pages/getPageHome.html.erb
+> git ls-files --stage -- /home/immanuwel/Documents/RUBY/simpleBlog/app/views/pages/getPageHome.html.erb
+> git show --textconv :app/views/pages/getPageSalut.html.erb
+> git ls-files --stage -- /home/immanuwel/Documents/RUBY/simpleBlog/app/views/pages/getPageSalut.html.erb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :db/migrate/20200713104200_create_posts_table.rb
+> git ls-files --stage -- /home/immanuwel/Documents/RUBY/simpleBlog/db/migrate/20200713104200_create_posts_table.rb
+> git show --textconv :db/migrate/20200713105855_rename_column_name_to_title.rb
+> git ls-files --stage -- /home/immanuwel/Documents/RUBY/simpleBlog/db/migrate/20200713105855_rename_column_name_to_title.rb
+> git show --textconv :db/schema.rb
+> git ls-files --stage -- /home/immanuwel/Documents/RUBY/simpleBlog/db/schema.rb
+> git show --textconv :db/seeds.rb
+> git ls-files --stage -- /home/immanuwel/Documents/RUBY/simpleBlog/db/seeds.rb
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/immanuwel/Documents/RUBY/simpleBlog/config/database.yml

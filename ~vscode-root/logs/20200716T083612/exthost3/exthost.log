@@ -1,0 +1,120 @@
+[2020-07-16 10:50:49.823] [exthost] [info] extension host started
+[2020-07-16 10:50:49.867] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 10:50:49.867] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-07-16 10:50:49.870] [exthost] [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation {"startup":false,"extensionId":{"value":"pucelle.vscode-css-navigation","_lower":"pucelle.vscode-css-navigation"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 10:50:49.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pucelle.vscode-css-navigation-1.9.0/client/out/extension
+[2020-07-16 10:50:49.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-16 10:50:49.897] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-16 10:50:49.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-16 10:50:49.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-16 10:50:49.906] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 10:50:49.907] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-16 10:50:49.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-16 10:50:49.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-16 10:50:49.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-16 10:50:49.940] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-16 10:50:49.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-16 10:50:49.941] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-16 10:50:49.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-16 10:50:49.945] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-16 10:50:49.946] [exthost] [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete {"startup":true,"extensionId":{"value":"Atishay-Jain.All-Autocomplete","_lower":"atishay-jain.all-autocomplete"},"activationEvent":"*"}
+[2020-07-16 10:50:49.946] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension
+[2020-07-16 10:50:49.947] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2020-07-16 10:50:49.947] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/chenxsan.vscode-standardjs-1.3.0/client/out/extension
+[2020-07-16 10:50:49.969] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-07-16 10:50:49.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/christian-kohler.path-intellisense-2.2.1/out/extension.js
+[2020-07-16 10:50:49.981] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-07-16 10:50:49.981] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-07-16 10:50:49.991] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-07-16 10:50:49.991] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-07-16 10:50:49.996] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-07-16 10:50:49.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/formulahendry.auto-close-tag-0.5.8/out/src/extension
+[2020-07-16 10:50:49.996] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2020-07-16 10:50:49.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hbenl.vscode-test-explorer-2.19.1/out/main.js
+[2020-07-16 10:50:50.009] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-07-16 10:50:50.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ionutvmi.path-autocomplete-1.14.0/out/src/extension
+[2020-07-16 10:50:50.015] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-16 10:50:50.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-16 10:50:50.019] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-07-16 10:50:50.019] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-07-16 10:50:50.318] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-07-16 10:50:50.319] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-07-16 10:50:50.352] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2020-07-16 10:50:50.352] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tabnine.tabnine-vscode-2.8.10/out/extension
+[2020-07-16 10:50:50.362] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-07-16 10:50:50.362] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-07-16 10:50:51.024] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:50:51.024] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-16 10:50:51.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:50:51.028] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-16 10:50:51.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:50:51.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-07-16 10:50:51.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 10:50:51.089] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-16 10:50:51.138] [exthost] [info] eager extensions activated
+[2020-07-16 10:51:06.124] [exthost] [info] extension host started
+[2020-07-16 10:51:06.157] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 10:51:06.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-07-16 10:51:06.161] [exthost] [info] ExtensionService#_doActivateExtension pucelle.vscode-css-navigation {"startup":false,"extensionId":{"value":"pucelle.vscode-css-navigation","_lower":"pucelle.vscode-css-navigation"},"activationEvent":"onLanguage:plaintext"}
+[2020-07-16 10:51:06.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pucelle.vscode-css-navigation-1.9.0/client/out/extension
+[2020-07-16 10:51:06.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-07-16 10:51:06.189] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-07-16 10:51:06.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-07-16 10:51:06.191] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-07-16 10:51:06.198] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 10:51:06.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-07-16 10:51:06.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-07-16 10:51:06.211] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2020-07-16 10:51:06.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-07-16 10:51:06.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-07-16 10:51:06.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":true,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"*"}
+[2020-07-16 10:51:06.217] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-07-16 10:51:06.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-07-16 10:51:06.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-07-16 10:51:06.224] [exthost] [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete {"startup":true,"extensionId":{"value":"Atishay-Jain.All-Autocomplete","_lower":"atishay-jain.all-autocomplete"},"activationEvent":"*"}
+[2020-07-16 10:51:06.224] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/atishay-jain.all-autocomplete-0.0.23/dist/extension
+[2020-07-16 10:51:06.226] [exthost] [info] ExtensionService#_doActivateExtension chenxsan.vscode-standardjs {"startup":true,"extensionId":{"value":"chenxsan.vscode-standardjs","_lower":"chenxsan.vscode-standardjs"},"activationEvent":"*"}
+[2020-07-16 10:51:06.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/chenxsan.vscode-standardjs-1.3.0/client/out/extension
+[2020-07-16 10:51:06.257] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2020-07-16 10:51:06.257] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/christian-kohler.path-intellisense-2.2.1/out/extension.js
+[2020-07-16 10:51:06.271] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-07-16 10:51:06.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-07-16 10:51:06.282] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-07-16 10:51:06.283] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8/client/out/extension
+[2020-07-16 10:51:06.289] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2020-07-16 10:51:06.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/formulahendry.auto-close-tag-0.5.8/out/src/extension
+[2020-07-16 10:51:06.290] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer {"startup":true,"extensionId":{"value":"hbenl.vscode-test-explorer","_lower":"hbenl.vscode-test-explorer"},"activationEvent":"*"}
+[2020-07-16 10:51:06.290] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/hbenl.vscode-test-explorer-2.19.1/out/main.js
+[2020-07-16 10:51:06.302] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-07-16 10:51:06.302] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ionutvmi.path-autocomplete-1.14.0/out/src/extension
+[2020-07-16 10:51:06.309] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-07-16 10:51:06.309] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/pkief.material-icon-theme-4.2.0/dist/extension
+[2020-07-16 10:51:06.314] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-07-16 10:51:06.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-07-16 10:51:06.619] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2020-07-16 10:51:06.619] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/streetsidesoftware.code-spell-checker-1.9.0/dist/extension
+[2020-07-16 10:51:06.659] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2020-07-16 10:51:06.659] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tabnine.tabnine-vscode-2.8.10/out/extension
+[2020-07-16 10:51:06.669] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2020-07-16 10:51:06.669] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2020-07-16 10:51:06.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-07-16 10:51:06.893] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2020-07-16 10:51:06.898] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":true,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"workspaceContains:README.md"}
+[2020-07-16 10:51:06.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/yzhang.markdown-all-in-one-3.1.0/dist/extension
+[2020-07-16 10:51:07.354] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:51:07.354] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-07-16 10:51:07.360] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:51:07.360] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-07-16 10:51:07.396] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-07-16 10:51:07.396] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-07-16 10:51:08.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-07-16 10:51:08.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2020-07-16 10:51:08.395] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css {"startup":false,"extensionId":{"value":"ecmel.vscode-html-css","_lower":"ecmel.vscode-html-css"},"activationEvent":"onLanguage:html"}
+[2020-07-16 10:51:08.395] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/ecmel.vscode-html-css-0.2.3/dist/extension
+[2020-07-16 10:51:08.435] [exthost] [info] ExtensionService#_doActivateExtension mohd-akram.vscode-html-format {"startup":false,"extensionId":{"value":"mohd-akram.vscode-html-format","_lower":"mohd-akram.vscode-html-format"},"activationEvent":"onLanguage:html"}
+[2020-07-16 10:51:08.435] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/mohd-akram.vscode-html-format-0.0.4/out/extension
+[2020-07-16 10:51:08.437] [exthost] [info] ExtensionService#_doActivateExtension tht13.html-preview-vscode {"startup":false,"extensionId":{"value":"tht13.html-preview-vscode","_lower":"tht13.html-preview-vscode"},"activationEvent":"onLanguage:html"}
+[2020-07-16 10:51:08.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/immanuwel/.vscode/extensions/tht13.html-preview-vscode-0.2.5/out/extension.js
+[2020-07-16 10:51:10.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-07-16 10:51:10.102] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2020-07-16 10:51:10.135] [exthost] [info] eager extensions activated

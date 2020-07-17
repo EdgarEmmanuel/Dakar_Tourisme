@@ -1,0 +1,9 @@
+[Info  - 10:22:11 AM] JavaScript Standard Style server is running.
+[Info  - 10:22:11 AM] 
+Failed to load the JavaScript Standard Style library for the document /home/immanuwel/Documents/Node_Work/PractiseNode.js
+
+To use JavaScript Standard Style please install JavaScript Standard Style by running 'npm install standard' in the workspace folder Node_Work
+or globally using 'npm install -g standard'. You need to reopen the workspace after installing JavaScript Standard Style.
+
+Alternatively you can disable JavaScript Standard Style for the workspace folder Node_Work by executing the 'Disable JavaScript Standard Style' command.
+[Info  - 12:09:24 PM] JavaScript Standard Style server stopped.
