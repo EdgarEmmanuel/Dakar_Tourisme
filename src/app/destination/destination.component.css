@@ -92,3 +92,20 @@
     border-radius:10px;
     
 }
+
+/* start section-4 */
+
+.section-4{
+    margin-top: -10rem;
+}
+
+.section-4 .text{
+    position: relative;
+    top:-20rem;
+    background: rgba(255,255,255,0.3);
+    color:black;
+    font-family: 'Baloo Da 2', cursive;
+    margin-left:200px;
+    width:600px;
+    border-radius:10px;
+}
