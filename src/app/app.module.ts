@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ContributePageComponent } from './contribute-page/contribute-page.component';
 import { DestinationComponent } from './destination/destination.component';
 import { BlogComponent } from './blog/blog.component';
+import { InscriptionComponent } from './inscription/inscription.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +14,7 @@ import { BlogComponent } from './blog/blog.component';
     ContributePageComponent,
     DestinationComponent,
     BlogComponent,
+    InscriptionComponent,
   ],
   imports: [
     BrowserModule,
