@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@500&display=swap');
+
+
+.section-12 {
+    width:65rem;
+    overflow:hidden;
+    height:20rem;
+    margin-top: 30px;
+}
+
+
+.section-12 .__row {
+    font-family: 'Baloo Da 2', cursive;
+}
+
+
+.section-12 .__row h3,h6{
+    font-weight:bold;
+    text-align: left;
+}
+
+.section-12 .__row img{
+    width:65rem;
+    position: center;
+}

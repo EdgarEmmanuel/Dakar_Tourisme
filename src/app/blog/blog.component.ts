@@ -9,6 +9,12 @@ export class BlogComponent implements OnInit {
 
   constructor() { }
 
+  date : String = "17 JUILLET 2020";
+
+  country :String = "Dakar";
+
+  author : String ="MOUSSA DIOP";
+
   ngOnInit(): void {
   }
 
