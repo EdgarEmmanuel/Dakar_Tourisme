@@ -9,11 +9,11 @@ export class BlogComponent implements OnInit {
 
   constructor() { }
 
-  date : String = "17 JUILLET 2020";
-
-  country :String = "Dakar";
-
-  author : String ="MOUSSA DIOP";
+  blogs =[
+    {"date":"17 JUILLET 202","country":"Dakar","author":"MOussa Diop"},
+    {"date":"22 JUILLET 2020","country":"Casamance","author":"Abdou Niang"},
+    {"date":"12 JUILLET 2020","country":"Gabon","author":"MOHAMMED GUEYE"},
+  ]
 
   ngOnInit(): void {
   }
