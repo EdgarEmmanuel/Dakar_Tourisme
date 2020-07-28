@@ -7,6 +7,8 @@ import { ContributePageComponent } from './contribute-page/contribute-page.compo
 import { DestinationComponent } from './destination/destination.component';
 import { BlogComponent } from './blog/blog.component';
 import { InscriptionComponent } from './inscription/inscription.component';
+import { BlogService } from './blog.service';
+
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { InscriptionComponent } from './inscription/inscription.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+    BlogService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
