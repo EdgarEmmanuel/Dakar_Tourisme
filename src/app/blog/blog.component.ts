@@ -1,5 +1,7 @@
 import { BlogService } from './../blog.service';
-import { Component, OnInit } from '@angular/core';
+import { Component, OnDestroy, OnInit } from '@angular/core';
+import { Subscription } from 'rxjs';
+
 
 
 @Component({
@@ -7,15 +9,24 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './blog.component.html',
   styleUrls: ['./blog.component.css']
 })
-export class BlogComponent implements OnInit {
+export class BlogComponent implements OnInit,OnDestroy {
 
   blogs : any[];
+
+  sub : Subscription;
 
   constructor(private BlogServ:BlogService) { }
 
 
   ngOnInit(): void {
-    this.blogs=this.BlogServ.blogs;
+    this.sub = this.BlogServ.BLOGS.subscribe((data:any)=>{
+      this.blogs=data;
+    })
+    this.BlogServ.emitAllBLogs();
+  }
+
+  ngOnDestroy(){
+    this.sub.unsubscribe();
   }
 
 }
