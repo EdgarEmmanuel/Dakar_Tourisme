@@ -2,10 +2,11 @@
  <p><i class="fa fa-users fa-3x" aria-hidden="true"></i></p>
 
 
-<form action="">
+<form action="" (ngSubmit)="Insert(form)" #form="ngForm">
+    <input type="text" name="name" class="form-controller" placeholder="name" autocomplete="off" id="" ngModel required> <br/>
+    <input type="text" name="prenom" class="form-controller" placeholder="prenom" autocomplete="off" id="" ngModel required> <br/>
+    <input type="date" name="date" class="form-controller" placeholder="date" id="" autocomplete="off" ngModel required> <br/>
+    <input type="number" name="total" class="form-controller" autocomplete="off" placeholder="nombre de personnes" id="" ngModel required> <br/><br/>
 
-    <input type="text" name="" class="form-controller" placeholder="name" id=""> <br>
-    <input type="text" name="" class="form-controller" placeholder="prenom" id=""> <br>
-    <input type="date" name="" class="form-controller" placeholder="date" id=""> <br>
-    <input type="number" name="" class="form-controller" placeholder="nombre de personnes" id=""> <br>
+    <button type="submit" [disabled]="form.invalid">ENREGISTRER</button>
 </form>

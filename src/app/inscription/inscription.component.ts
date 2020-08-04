@@ -1,4 +1,7 @@
+import { ReservationService } from './../reservation.service';
 import { Component, OnInit } from '@angular/core';
+import { NgForm } from '@angular/forms';
+
 
 @Component({
   selector: 'app-inscription',
@@ -7,9 +10,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class InscriptionComponent implements OnInit {
 
-  constructor() { }
-
+  constructor(private serv:ReservationService) { }
+ 
   ngOnInit(): void {
+  }
+
+  Insert(form:NgForm){
+    console.log(form.value);
   }
 
 }

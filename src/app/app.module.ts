@@ -10,6 +10,7 @@ import { BlogComponent } from './blog/blog.component';
 import { InscriptionComponent } from './inscription/inscription.component';
 import { BlogService } from './blog.service';
 import { ReservationListComponent } from './reservation-list/reservation-list.component';
+import { FormsModule } from '@angular/forms';
 
 
 
@@ -25,7 +26,8 @@ import { ReservationListComponent } from './reservation-list/reservation-list.co
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [
     BlogService
