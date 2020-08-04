@@ -1,5 +1,7 @@
+import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Subject } from 'rxjs';
+
 
 @Injectable({
   providedIn: 'root'
@@ -12,7 +14,7 @@ export class BlogService {
 
   BLOGS = new Subject<any[]>();
 
-  constructor() { }
+  constructor(private httpClient:HttpClient) { }
 
   emitAllBLogs(){
     this.BLOGS.next(this.blogs.slice());

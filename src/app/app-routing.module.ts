@@ -4,6 +4,7 @@ import { BlogComponent } from './blog/blog.component';
 import { ContributePageComponent } from './contribute-page/contribute-page.component';
 import { DestinationComponent } from './destination/destination.component';
 import { InscriptionComponent } from './inscription/inscription.component';
+import { ReservationListComponent } from './reservation-list/reservation-list.component';
 
 
 const routes: Routes = [
@@ -11,6 +12,7 @@ const routes: Routes = [
   {path:"contribute",component:ContributePageComponent},
   {path:"destination",component:DestinationComponent},
   {path:'blog',component:BlogComponent},
+  {path:'reservation',component:ReservationListComponent},
   {path:'inscription',component:InscriptionComponent}
 ];
 

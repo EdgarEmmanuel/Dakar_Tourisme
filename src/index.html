@@ -14,7 +14,35 @@
   <app-root></app-root>
 
 
+ <!--for FIREBASE  -->
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js"></script>
 
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAdD_hx3cJ7O9ZGzPoiDpHzZCviEOOP6YQ",
+    authDomain: "angu-72743.firebaseapp.com",
+    databaseURL: "https://angu-72743.firebaseio.com",
+    projectId: "angu-72743",
+    storageBucket: "angu-72743.appspot.com",
+    messagingSenderId: "576413285212",
+    appId: "1:576413285212:web:587252449c0ee5d5f81f99",
+    measurementId: "G-14S8THP88C"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
+
+
+
+<!-- for Bootsrtap JS-->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" 
   integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" 
