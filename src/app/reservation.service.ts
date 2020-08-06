@@ -13,7 +13,16 @@ export class ReservationService {
  
   allResev = new Subject<any[]>();
 
-  Rese : any[]=[];
+  Rese : any[]=[
+    {
+      id:0,
+      nom:"Emma",
+      prenom:"Edgar",
+      date:'12-06-2020',
+      lieu:'ILe ',
+      nb:10
+    }
+  ];
 
   constructor(private httpClient:HttpClient,private router:Router) { }
 
@@ -35,12 +44,14 @@ export class ReservationService {
 
   addInArray(nom:string,prenom:string,date:string,nb:number,l:string){
     var reservation={
+      id:0,
       nom:'',
       prenom:'',
       date:'',
       lieu:'',
       nb:0
     };
+    reservation.id=this.Rese.length;
     reservation.nom=nom;
     reservation.prenom=prenom;
     reservation.date=date;
@@ -49,6 +60,14 @@ export class ReservationService {
 
     this.Rese.push(reservation);
     this.emitAllReserv();
+  }
+
+  getReservById(id:number){
+    for(let reserv of this.Rese){
+      if(reserv.id==id){
+        return reserv;
+      }
+    }
   }
 
  

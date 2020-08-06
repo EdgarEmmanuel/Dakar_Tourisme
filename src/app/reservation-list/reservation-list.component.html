@@ -1,11 +1,8 @@
 <h1>TOUTES LES RESERVATIONS</h1>
 
-<div class="div" *ngFor="let dat of donnes">
+<div class="div" >
     <h1>LIST</h1>
-    <p>
-        Owner : {{dat.nom}} {{dat.prenom}} <br/>
-        Date : {{dat.date}} <br/>
-        Number of People : {{dat.nb}} personnes  <br/>
-        Lieu de la visite : {{dat.lieu}}
+    <p *ngFor="let dat of donnes;let i=index">
+        <app-one-reserv [data]="dat" ></app-one-reserv>
     </p>
 </div>

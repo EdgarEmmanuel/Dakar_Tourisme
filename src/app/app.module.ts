@@ -12,6 +12,8 @@ import { BlogService } from './blog.service';
 import { ReservationListComponent } from './reservation-list/reservation-list.component';
 import { FormsModule } from '@angular/forms';
 import { DestiModelService } from './desti-model.service';
+import { DetReservationComponent } from './det-reservation/det-reservation.component';
+import { OneReservComponent } from './one-reserv/one-reserv.component';
 
 
 
@@ -23,6 +25,8 @@ import { DestiModelService } from './desti-model.service';
     BlogComponent,
     InscriptionComponent,
     ReservationListComponent,
+    DetReservationComponent,
+    OneReservComponent,
   ],
   imports: [
     BrowserModule,
