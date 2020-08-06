@@ -1,4 +1,4 @@
-<h1>S'INSCRIRE POUR LE GRAND VOYAGE </h1> <br>
+<h1>S'INSCRIRE POUR LE GRAND VOYAGE </h1> <br/>
  <p><i class="fa fa-users fa-3x" aria-hidden="true"></i></p>
 
 
@@ -7,6 +7,9 @@
     <input type="text" name="prenom" class="form-controller" placeholder="prenom" autocomplete="off" id="" ngModel required> <br/>
     <input type="date" name="date" class="form-controller" placeholder="date" id="" autocomplete="off" ngModel required> <br/>
     <input type="number" name="total" class="form-controller" autocomplete="off" placeholder="nombre de personnes" id="" ngModel required> <br/><br/>
-
+    <label for="">LIEU A VISITER </label>
+    <select name="lieu" id="" class="form-control" style="width:300px;margin-left:500px;" ngModel>
+        <option *ngFor="let dis of DESTINATIONS" value="{{dis.lieu}}"> {{dis.lieu}} </option>
+    </select> <br/> <br/>
     <button type="submit" [disabled]="form.invalid">ENREGISTRER</button>
 </form>

@@ -1,1 +1,11 @@
-<p>reservation-list works!</p>
+<h1>TOUTES LES RESERVATIONS</h1>
+
+<div class="div" *ngFor="let dat of donnes">
+    <h1>LIST</h1>
+    <p>
+        Owner : {{dat.nom}} {{dat.prenom}} <br/>
+        Date : {{dat.date}} <br/>
+        Number of People : {{dat.nb}} personnes  <br/>
+        Lieu de la visite : {{dat.lieu}}
+    </p>
+</div>

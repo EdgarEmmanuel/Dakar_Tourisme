@@ -11,14 +11,14 @@ import { ReservationService } from '../reservation.service';
 export class ReservationListComponent implements OnInit {
 
   subscri : Subscription;
-  data:any[];
+  donnes:any[];
 
   constructor(private serv:ReservationService) { }
 
   ngOnInit(): void {
     this.subscri=this.serv.allResev.subscribe(
       (data:any)=>{
-        this.data=data;
+        this.donnes=data;
       }
     )
     this.serv.emitAllReserv();

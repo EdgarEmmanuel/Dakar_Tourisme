@@ -11,6 +11,7 @@ import { InscriptionComponent } from './inscription/inscription.component';
 import { BlogService } from './blog.service';
 import { ReservationListComponent } from './reservation-list/reservation-list.component';
 import { FormsModule } from '@angular/forms';
+import { DestiModelService } from './desti-model.service';
 
 
 
@@ -30,7 +31,8 @@ import { FormsModule } from '@angular/forms';
     FormsModule
   ],
   providers: [
-    BlogService
+    BlogService,
+    DestiModelService
   ],
   bootstrap: [AppComponent]
 })
