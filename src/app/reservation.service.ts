@@ -27,7 +27,7 @@ export class ReservationService {
   constructor(private httpClient:HttpClient,private router:Router) { }
 
   insertAllBlog(){
-    this.httpClient.put("https://angu-72743.firebaseio.com/",this.Rese)
+    this.httpClient.put("https://angu-72743.firebaseio.com/reservation.json",this.Rese)
     .subscribe(
       ()=>{
         console.log("INSERT SUCCESSFULLY");
@@ -35,6 +35,15 @@ export class ReservationService {
       (error)=>{
         console.log(error);
       }
+    )
+  }
+
+  getAllBlog(){
+    this.httpClient.get("https://angu-72743.firebaseio.com/reservation.json")
+    .subscribe(
+      (data:any)=>{
+        this.Rese.push(data);
+      },
     )
   }
 
@@ -59,6 +68,7 @@ export class ReservationService {
     reservation.lieu=l;
 
     this.Rese.push(reservation);
+    this.insertAllBlog();
     this.emitAllReserv();
   }
 

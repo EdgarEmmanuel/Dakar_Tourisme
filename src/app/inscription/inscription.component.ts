@@ -33,7 +33,6 @@ export class InscriptionComponent implements OnInit {
   }
 
   Insert(form:NgForm){
-    //console.log(form.value["name"]);
     const name = form.value["name"];
     const prenom = form.value["prenom"];
     const date = form.value["date"].toString();
@@ -41,7 +40,6 @@ export class InscriptionComponent implements OnInit {
     const lieu = form.value["lieu"];
 
     //console.log(form.value["lieu"]);
-
     this.serv.addInArray(name,prenom,date,number,lieu);
 
 
