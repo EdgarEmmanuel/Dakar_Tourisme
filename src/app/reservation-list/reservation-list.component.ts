@@ -1,6 +1,7 @@
 import { Subscription } from 'rxjs';
 import { Component, OnInit } from '@angular/core';
 import { ReservationService } from '../reservation.service';
+import { HttpClient } from '@angular/common/http';
 
 
 @Component({
@@ -22,6 +23,7 @@ export class ReservationListComponent implements OnInit {
       }
     )
     this.serv.emitAllReserv();
+    //this.donnes = this.serv.getAllBlog();
   }
 
 

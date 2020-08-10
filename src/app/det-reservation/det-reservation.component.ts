@@ -13,6 +13,8 @@ export class DetReservationComponent implements OnInit {
   date:string;
   lieu:string;
   nombres:string;
+  nom:string;
+  prenom:string;
   constructor(private AcRoute:ActivatedRoute,private serv:ReservationService) { }
 
   ngOnInit(): void {
@@ -20,6 +22,8 @@ export class DetReservationComponent implements OnInit {
     this.date = this.serv.getReservById(id).date;
     this.nombres = this.serv.getReservById(id).nb;
     this.lieu = this.serv.getReservById(id).lieu;
+    this.nom = this.serv.getReservById(id).nom;
+    this.prenom = this.serv.getReservById(id).prenom;
   }
 
 }

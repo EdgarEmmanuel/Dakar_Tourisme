@@ -45,6 +45,7 @@ export class ReservationService {
         this.Rese.push(data);
       },
     )
+    this.emitAllReserv();
   }
 
   emitAllReserv(){
@@ -69,7 +70,7 @@ export class ReservationService {
 
     this.Rese.push(reservation);
     this.insertAllBlog();
-    this.emitAllReserv();
+    //this.emitAllReserv();
   }
 
   getReservById(id:number){
