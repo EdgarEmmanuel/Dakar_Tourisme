@@ -4,7 +4,7 @@ import { ReservationService } from '../reservation.service';
 import { HttpClient } from '@angular/common/http';
 
 
-@Component({
+@Component({ 
   selector: 'app-reservation-list',
   templateUrl: './reservation-list.component.html',
   styleUrls: ['./reservation-list.component.css']
@@ -12,20 +12,13 @@ import { HttpClient } from '@angular/common/http';
 export class ReservationListComponent implements OnInit {
 
   subscri : Subscription;
-  donnes:any[];
+  donnes:any[]=[];
 
   constructor(private serv:ReservationService) { }
 
   ngOnInit(): void {
-    this.subscri=this.serv.allResev.subscribe(
-      (data:any)=>{
-        this.donnes=data;
-      }
-    )
-    this.serv.emitAllReserv();
-    //this.donnes = this.serv.getAllBlog();
+    this.donnes = this.serv.getAllBlog();
+   console.log(this.donnes);
   }
-
-
 
 }

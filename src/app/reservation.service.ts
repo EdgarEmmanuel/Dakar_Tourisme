@@ -2,7 +2,7 @@ import { Router } from '@angular/router';
 import { Subject } from 'rxjs';
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-
+import {map} from 'rxjs/operators';
 
 
 
@@ -13,21 +13,12 @@ export class ReservationService {
  
   allResev = new Subject<any[]>();
 
-  Rese : any[]=[
-    {
-      id:0,
-      nom:"Emma",
-      prenom:"Edgar",
-      date:'12-06-2020',
-      lieu:'ILe ',
-      nb:10
-    }
-  ];
+  Rese : any[]=[];
 
   constructor(private httpClient:HttpClient,private router:Router) { }
 
-  insertAllBlog(){
-    this.httpClient.put("https://angu-72743.firebaseio.com/reservation.json",this.Rese)
+  insertAllBlog(data){
+    this.httpClient.put("https://angu-72743.firebaseio.com/reservation.json",data)
     .subscribe(
       ()=>{
         console.log("INSERT SUCCESSFULLY");
@@ -41,11 +32,11 @@ export class ReservationService {
   getAllBlog(){
     this.httpClient.get("https://angu-72743.firebaseio.com/reservation.json")
     .subscribe(
-      (data:any)=>{
+      (data)=>{
         this.Rese.push(data);
       },
     )
-    this.emitAllReserv();
+    return this.Rese;
   }
 
   emitAllReserv(){
@@ -69,8 +60,12 @@ export class ReservationService {
     reservation.lieu=l;
 
     this.Rese.push(reservation);
-    this.insertAllBlog();
-    //this.emitAllReserv();
+    
+    for(let data of this.Rese){
+      this.insertAllBlog(data);
+    }
+
+    this.emitAllReserv();
   }
 
   getReservById(id:number){

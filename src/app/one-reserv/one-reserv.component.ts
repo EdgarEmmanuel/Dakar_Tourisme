@@ -8,8 +8,6 @@ import { Component, Input, OnInit } from '@angular/core';
 export class OneReservComponent implements OnInit {
 
   @Input() data;
-
-
   id:number;
 
   constructor() { }
