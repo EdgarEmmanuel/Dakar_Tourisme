@@ -2,10 +2,10 @@
 
 
 .section-12 {
-    width:65rem;
+    width:95rem;
     overflow:hidden;
     height:20rem;
-    margin-top: 30px;
+    margin-top: 30px; 
 }
 
 
@@ -20,6 +20,11 @@
 }
 
 .section-12 .__row img{
-    width:65rem;
+    width:95rem;
+    border-radius:10px;
     position: center;
+}
+
+.div {
+    display: flex;
 }

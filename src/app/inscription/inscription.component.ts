@@ -1,8 +1,10 @@
+import { Router } from '@angular/router';
 import { Subscription } from 'rxjs';
 import { ReservationService } from './../reservation.service';
 import { Component, OnInit } from '@angular/core';
 import { NgForm } from '@angular/forms';
 import { DestiModelService } from '../desti-model.service';
+
 
 
 @Component({
@@ -17,7 +19,7 @@ export class InscriptionComponent implements OnInit {
 
   DESTINATIONS : any[];
 
-  constructor(private serv:ReservationService,private destServ:DestiModelService) { }
+  constructor(private serv:ReservationService,private destServ:DestiModelService,private route:Router) { }
  
   ngOnInit(): void {
     this.allDesti= this.destServ.desti.subscribe(
@@ -44,7 +46,6 @@ export class InscriptionComponent implements OnInit {
 
 
     form.resetForm();
-
 
   }
 

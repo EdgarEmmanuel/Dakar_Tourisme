@@ -4,7 +4,7 @@ import { ReservationService } from '../reservation.service';
 import { HttpClient } from '@angular/common/http';
 
 
-@Component({ 
+@Component({
   selector: 'app-reservation-list',
   templateUrl: './reservation-list.component.html',
   styleUrls: ['./reservation-list.component.css']
